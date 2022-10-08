@@ -1,0 +1,11 @@
+Model Information:
+* title:	Police Drone
+* source:	https://sketchfab.com/3d-models/police-drone-37b5bd51224641c2903e52a46dc3e10f
+* author:	KIFIR (https://sketchfab.com/kifir)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Police Drone" (https://sketchfab.com/3d-models/police-drone-37b5bd51224641c2903e52a46dc3e10f) by KIFIR (https://sketchfab.com/kifir) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
